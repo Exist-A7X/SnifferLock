@@ -1,102 +1,102 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:2:1-24:12
-MERGED from [com.android.support:appcompat-v7:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/ee03a4ab2276183df8d8339d44f7102f/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.volley:volley:1.0.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/178504a76f1685ff8d6cdab23c1a29b7/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.0.aar/ed7e8429ee5facf3b64a968b8442a101/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.0.aar/26b38df9ba6af8dc01c5cf4ac22e57b2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.0.aar/9f8a123e94b397977f3a94d07d18f801/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\fac304e37f46fd0debdac89cb2d2bc57\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\be4f2900dfa21e7ebd3736704095a852\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.0.aar\206da7ce37eb073e77f6d9b18bbd9858\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.0.aar\39d3fe883f27099dd3c8a7d572844fe9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\ead79ba0e515bdfb3c8d1a422629fe4f\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:3:5-43
-		INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
+		INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
+		INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:7:5-22:19
-MERGED from [com.android.support:appcompat-v7:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/ee03a4ab2276183df8d8339d44f7102f/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/ee03a4ab2276183df8d8339d44f7102f/AndroidManifest.xml:25:5-20
-MERGED from [com.android.volley:volley:1.0.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/178504a76f1685ff8d6cdab23c1a29b7/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.0.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/178504a76f1685ff8d6cdab23c1a29b7/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.0.aar/ed7e8429ee5facf3b64a968b8442a101/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.0.aar/ed7e8429ee5facf3b64a968b8442a101/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.0.aar/26b38df9ba6af8dc01c5cf4ac22e57b2/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.0.aar/26b38df9ba6af8dc01c5cf4ac22e57b2/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.0.aar/9f8a123e94b397977f3a94d07d18f801/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.0.aar/9f8a123e94b397977f3a94d07d18f801/AndroidManifest.xml:22:5-20
+ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\fac304e37f46fd0debdac89cb2d2bc57\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\fac304e37f46fd0debdac89cb2d2bc57\AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\be4f2900dfa21e7ebd3736704095a852\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\be4f2900dfa21e7ebd3736704095a852\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.0.aar\206da7ce37eb073e77f6d9b18bbd9858\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.0.aar\206da7ce37eb073e77f6d9b18bbd9858\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.0.aar\39d3fe883f27099dd3c8a7d572844fe9\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.0.aar\39d3fe883f27099dd3c8a7d572844fe9\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\ead79ba0e515bdfb3c8d1a422629fe4f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\ead79ba0e515bdfb3c8d1a422629fe4f\AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:10:9-41
 	android:icon
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:12:9-40
 activity#com.tonikamitv.loginregister.LoginActivity
-ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:13:9-19:20
+ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:13:19-48
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:13:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:17:27-74
 activity#com.tonikamitv.loginregister.RegisterActivity
-ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:20:9-54
+ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:20:9-54
 	android:name
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:20:19-51
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:20:19-51
 activity#com.tonikamitv.loginregister.UserAreaActivity
-ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:21:9-63
+ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:21:9-63
 	android:name
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml:21:19-51
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml:21:19-51
 uses-sdk
-INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
-INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/ee03a4ab2276183df8d8339d44f7102f/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/ee03a4ab2276183df8d8339d44f7102f/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.volley:volley:1.0.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/178504a76f1685ff8d6cdab23c1a29b7/AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.0.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/178504a76f1685ff8d6cdab23c1a29b7/AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.0.aar/ed7e8429ee5facf3b64a968b8442a101/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.0.aar/ed7e8429ee5facf3b64a968b8442a101/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.0.aar/26b38df9ba6af8dc01c5cf4ac22e57b2/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.0.aar/26b38df9ba6af8dc01c5cf4ac22e57b2/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.0.aar/9f8a123e94b397977f3a94d07d18f801/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.0.aar/9f8a123e94b397977f3a94d07d18f801/AndroidManifest.xml:20:5-43
-INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
-INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
+INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
+INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\fac304e37f46fd0debdac89cb2d2bc57\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\fac304e37f46fd0debdac89cb2d2bc57\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\be4f2900dfa21e7ebd3736704095a852\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\be4f2900dfa21e7ebd3736704095a852\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.0.aar\206da7ce37eb073e77f6d9b18bbd9858\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.2.0.aar\206da7ce37eb073e77f6d9b18bbd9858\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.0.aar\39d3fe883f27099dd3c8a7d572844fe9\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.2.0.aar\39d3fe883f27099dd3c8a7d572844fe9\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\ead79ba0e515bdfb3c8d1a422629fe4f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\support-v4-23.2.0.aar\ead79ba0e515bdfb3c8d1a422629fe4f\AndroidManifest.xml:20:5-43
+INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
+INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.2.0] /home/abdulhamid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.0.aar/ee03a4ab2276183df8d8339d44f7102f/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Abdulhamid\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.2.0.aar\fac304e37f46fd0debdac89cb2d2bc57\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
+		INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
-		ADDED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/abdulhamid/Documents/SnifferLock/Android/app/src/main/AndroidManifest.xml
+		INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
+		ADDED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SnifferLock\Android\app\src\main\AndroidManifest.xml
