@@ -17,8 +17,8 @@ extern "C"
 
 /******************************************************************************/
 /*
-char ssid[] = "TP-Link_7EAA";          //  your network SSID (name)
-char pass[] = "a0K4QC39fc5W";   // your network password
+char ssid[] = "Wifi-Username";          //  your network SSID (name)
+char pass[] = "Wifi-Password";   // your network password
 
 int status = WL_IDLE_STATUS;
 char hostGet[] = "google.com"; // remote server we will connect to
